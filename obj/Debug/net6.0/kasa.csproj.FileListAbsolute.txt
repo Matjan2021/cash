@@ -13,3 +13,5 @@ C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\obj\Debug\net6.0\r
 C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\obj\Debug\net6.0\kasa.pdb
 C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\obj\Debug\net6.0\kasa.genruntimeconfig.cache
 C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\obj\Debug\net6.0\ref\kasa.dll
+C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\obj\Debug\net6.0\kasa.csproj.CopyComplete

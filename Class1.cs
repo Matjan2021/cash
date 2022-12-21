@@ -9,14 +9,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Xml.Linq;
+using System.Text.Json.Serialization;
+using System.Net.Http.Json;
+
 namespace kasa
     {
-    JObject jsonObject = JObject.Parse(data);
-    Console.WriteLine("Name: "+ jsonObject["name"]);
-    Console.WriteLine("Kod: "+ jsonObject["Kod"]);
-    Console.WriteLine("price: "+ jsonObject["price"]);
     
-    Console.ReadLine();
     public class Item
     {
         public string Kod { get; set; }
@@ -26,8 +24,6 @@ namespace kasa
 
     }
 
-    
-
-
+ 
     
 }

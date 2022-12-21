@@ -1,52 +1,56 @@
-[
+
     {
-        "Kod":"001",
-        "Name":"Masło Extra",
-        "Price":6.5
+        "Kod": "001",
+        "Name": "Masło Extra",
+        "Price": 6.5
     },
     {
-        "Kod":"002",
-        "name":"Chleb wiejski",
-        "price":4.50
-    },
-    {
-        "Kod":"003",
-        "name":"Makaron Babuni",
-        "price":9.20
-    },
-    {
-        "Kod":"004",
-        "name":"Dżem truskawkowy",
-        "price":8.10 
-    },
-    {
-        "Kod":"005",
-        "name":"Kiełbasa myśliwska",
-        "price":29.00
-    },
-    {
-        "Kod":"006",
-        "name":"Szynka konserwowa",
-        "price":22.00
-    },
-    {
-        "Kod":"007",
-        "name":"Chipsy paprykowe",
-        "price":6.00
-    },
-    {
-        "Kod":"008",
-        "name":"Serek wiejski",
-        "price":3.50
-    },
-    {
-        "Kod":"009",
-        "name":"Sól kuchenna",
-        "price":2.70
-    },
-    {
-        "Kod":"009",
-        "name":"Cukier kryształ",
-        "price":3.20
+        "Kod": "001",
+        "Name": "Masło Extsra",
+        "Price": 6.5
     }
-]
+    //{
+    //    "Kod": "002",
+    //    "name": "Chleb wiejski",
+    //    "price": 4.50
+    //},
+    //{
+    //    "Kod": "003",
+    //    "name": "Makaron Babuni",
+    //    "price": 9.20
+    //},
+    //{
+    //    "Kod": "004",
+    //    "name": "Dżem truskawkowy",
+    //    "price": 8.10
+    //},
+    //{
+    //    "Kod": "005",
+    //    "name": "Kiełbasa myśliwska",
+    //    "price": 29.00
+    //},
+    //{
+    //    "Kod": "006",
+    //    "name": "Szynka konserwowa",
+    //    "price": 22.00
+    //},
+    //{
+    //    "Kod": "007",
+    //    "name": "Chipsy paprykowe",
+    //    "price": 6.00
+    //},
+    //{
+    //    "Kod": "008",
+    //    "name": "Serek wiejski",
+    //    "price": 3.50
+    //},
+    //{
+    //    "Kod": "009",
+    //    "name": "Sól kuchenna",
+    //    "price": 2.70
+    //},
+    //{
+    //    "Kod": "009",
+    //    "name": "Cukier kryształ",
+    //    "price": 3.20
+    //}
