@@ -1,0 +1,15 @@
+C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\bin\Debug\net6.0\kasa.exe
+C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\bin\Debug\net6.0\kasa.deps.json
+C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\bin\Debug\net6.0\kasa.runtimeconfig.json
+C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\bin\Debug\net6.0\kasa.dll
+C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\bin\Debug\net6.0\kasa.pdb
+C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\obj\Debug\net6.0\kasa.csproj.AssemblyReference.cache
+C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\obj\Debug\net6.0\kasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\obj\Debug\net6.0\kasa.AssemblyInfoInputs.cache
+C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\obj\Debug\net6.0\kasa.AssemblyInfo.cs
+C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\obj\Debug\net6.0\kasa.csproj.CoreCompileInputs.cache
+C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\obj\Debug\net6.0\kasa.dll
+C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\obj\Debug\net6.0\refint\kasa.dll
+C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\obj\Debug\net6.0\kasa.pdb
+C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\obj\Debug\net6.0\kasa.genruntimeconfig.cache
+C:\Users\matja\OneDrive\Pulpit\zaliczenie na studia\kasa\kasa\obj\Debug\net6.0\ref\kasa.dll
