@@ -13,8 +13,8 @@ using System.Text.Json.Serialization;
 using System.Net.Http.Json;
 
 namespace kasa
-    {
-    
+{
+
     public class Item
     {
         public string Kod { get; set; }
@@ -24,6 +24,8 @@ namespace kasa
 
     }
 
- 
-    
+}
+
+
+
 }
